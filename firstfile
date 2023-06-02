@@ -1,0 +1,5 @@
+# I want to use this file to test Github
+firstNum = 2
+secondNum = 3
+totalNum = firstNum + secondNum
+print (totalNum)
